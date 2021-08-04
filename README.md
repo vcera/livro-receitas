@@ -3,5 +3,5 @@
 Encontre as receitas por ordem alfabética
 
 - Strogonoff de frango
-
 - Pavê
+- Lasanha
