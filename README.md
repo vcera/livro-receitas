@@ -1,7 +1,8 @@
 # Livro de Receitas :woman_cook:
 
-Encontre as receitas por ordem alfabética
+Aqui estão algumas das minhas receitas favoritas
 
 - Strogonoff de frango
 - Pavê
 - Lasanha
+- Bolo de cenoura
